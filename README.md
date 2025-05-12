@@ -1,1 +1,1 @@
-#Tikuvchi web sayti
+# Tikuvchi web sayti
